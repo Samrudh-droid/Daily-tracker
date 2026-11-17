@@ -1,5 +1,7 @@
 # Daily Tracker
 
+**Live app:** [Daily Tracker](https://daily-tracker-zeta-sage.vercel.app)
+
 Daily Tracker is a personal task and habit tracker built as a MERN stack project
 for the Full Stack Development course at VVCE Mysuru. It helps you plan a day,
 keep permanent daily habits, and review weekly and monthly progress.
@@ -158,5 +160,3 @@ Monthly Report screenshots here after capturing them from a demo account.
 4. Confirm Render's `CLIENT_URL` matches the deployed Vercel origin, then open
    the Vercel URL and test signup, tasks, habits, and reports.
 
-Never put MongoDB credentials, JWT secrets, or real user passwords in this
-README, `.env.example` files, screenshots, or commits.
